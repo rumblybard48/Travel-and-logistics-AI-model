@@ -26,7 +26,7 @@ The assistant supports function calling, allowing it to intelligently invoke pre
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/rumblybard48/Travel_and_logistics_AI_model.git
 
 cd your-repo
 
