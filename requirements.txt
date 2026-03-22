@@ -1,0 +1,9 @@
+﻿streamlit
+python-dotenv
+google-generativeai
+openai
+geopy
+openrouteservice
+timezonefinder
+pytz
+pycountry
