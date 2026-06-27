@@ -1,0 +1,11 @@
+﻿streamlit
+python-dotenv
+google-generativeai
+geopy
+openrouteservice
+timezonefinder
+pytz
+pycountry
+tenacity
+folium
+streamlit-folium
